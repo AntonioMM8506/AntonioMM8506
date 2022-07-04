@@ -35,12 +35,10 @@
 <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-[LinkedIn](https://www.hackerrank.com/AntonioMM8506)
-[HakerRank](https://www.hackerrank.com/AntonioMM8506)
 
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-[CodeWars](https://www.codewars.com/users/AntonioMM8506)    
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> https://www.hackerrank.com/AntonioMM8506
+
+<img src="https://www.codewars.com/users/AntonioMM8506/badges/small" /> https://www.codewars.com/users/AntonioMM8506    
 
 <!---
 AntonioMM8506/AntonioMM8506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
