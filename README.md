@@ -1,16 +1,16 @@
-👋 Hi, I’m @AntonioMM8506
+:dog: Hi, I’m @AntonioMM8506
 
 ![image](https://github-readme-stats.vercel.app/api?username=AntonioMM8506)
 
-👀 I’m interested in Software Development and QA Automation.
+:computer: I’m interested in Software Development and QA Automation.
 
-🌱 I’m currently learning JavaScript, Python, CI/CD, Java and SDLC.
+:mortar_board: I’m currently learning JavaScript, Python, CI/CD, Java and SDLC.
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMM8506)
 
-💞️ I’m looking to collaborate on any project that allow me to sharp my skills so, one day, I can become a Senior Developer.
+:mag: I’m looking to collaborate on any project that allow me to sharp my skills so, one day, I can become a Senior Developer.
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/antonio-man-mal/)
+:information_source: You can reach me on [LinkedIn](https://www.linkedin.com/in/antonio-man-mal/)
 
 
 
