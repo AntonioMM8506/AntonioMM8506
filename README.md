@@ -1,4 +1,4 @@
-Hi, I’m @Antonio Maldonado
+Hi, I’m Antonio Maldonado
 
 I'm a passionate Fullstack Web Developer with a knack for crafting clean, efficient, and visually appealing digital solutions. I thrive on turning creative ideas into functional, user-friendly applications.
 
