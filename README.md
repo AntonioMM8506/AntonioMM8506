@@ -1,11 +1,11 @@
-:dog: Hi, I’m @Antonio Maldonado
+Hi, I’m @Antonio Maldonado
 
 I'm a passionate Fullstack Web Developer with a knack for crafting clean, efficient, and visually appealing digital solutions. I thrive on turning creative ideas into functional, user-friendly applications.
 
 My journey in web development began with a love for problem-solving and an insatiable curiosity for how things work. Over the years, I've honed my skills in **HTML**, **CSS**, and **JavaScript**, and I'm proficient in a variety of front-end frameworks like **React** and **Next.js**. On the server-side, I have knowledge working with technologies such as **Node.js** and **Express**, integrating, both, relational and non-relational databases such as **SQL** and **MongoDB**. Also, I have worked in Agile environments. Tools for organization such as **Azure DevOps** and for CD/CI like **GitHub Actions** are familiar to me.
 
 
-:information_source: You can reach me on [LinkedIn](https://www.linkedin.com/in/antonio-man-mal/)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/antonio-man-mal/)
 
 
 
