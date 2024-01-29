@@ -1,14 +1,9 @@
-:dog: Hi, I’m @AntonioMM8506
+:dog: Hi, I’m @Antonio Maldonado
 
-![image](https://github-readme-stats.vercel.app/api?username=AntonioMM8506)
+I'm a passionate Fullstack Web Developer with a knack for crafting clean, efficient, and visually appealing digital solutions. I thrive on turning creative ideas into functional, user-friendly applications.
 
-:computer: I’m interested in Software Development and QA Automation.
+My journey in web development began with a love for problem-solving and an insatiable curiosity for how things work. Over the years, I've honed my skills in **HTML**, **CSS**, and **JavaScript**, and I'm proficient in a variety of front-end frameworks like **React** and **Next.js**. On the server-side, I have knowledge working with technologies such as **Node.js** and **Express**, integrating, both, relational and non-relational databases such as **SQL** and **MongoDB**. Also, I have worked in Agile environments. Tools for organization such as **Azure DevOps** and for CD/CI like **GitHub Actions** are familiar to me.
 
-:mortar_board: I’m currently learning JavaScript, Python, CI/CD, Java and SDLC.
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMM8506)
-
-:mag: I’m looking to collaborate on any project that allow me to sharp my skills so, one day, I can become a Senior Developer.
 
 :information_source: You can reach me on [LinkedIn](https://www.linkedin.com/in/antonio-man-mal/)
 
